@@ -1,0 +1,21 @@
+.hobbyBaseInfoContainer {
+    display: block;
+    margin: auto;
+    max-width: 900px;
+    padding: 0 20px;
+}
+
+.hobbyBaseInfoContainer > .img_wrapper {
+    display: block;
+    width: 300px;
+    height: 250px;
+    margin: auto auto 20px;
+}
+
+.hobbyDetails .card {
+    width: 270px;
+}
+
+p {
+    display: inline;
+}

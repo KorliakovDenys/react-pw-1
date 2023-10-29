@@ -1,0 +1,11 @@
+#root {
+    text-align: center;
+}
+
+.img_wrapper{
+    overflow: hidden;
+}
+
+.img_wrapper > img {
+    width: 100%;
+}

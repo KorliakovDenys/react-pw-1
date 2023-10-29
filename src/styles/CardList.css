@@ -1,0 +1,16 @@
+.cardList {
+    display: inline-grid;
+    grid-gap: 10px;
+}
+
+@media (min-width: 654px) {
+    .cardList {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1064px) {
+    .cardList {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
