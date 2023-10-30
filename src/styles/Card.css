@@ -4,7 +4,7 @@
     border-radius: 16px;
 }
 
-.card > img {
+.card > .img_wrapper {
     border: 1px #000 solid;
     border-radius: 6px;
 }
