@@ -1,3 +1,8 @@
 .hobbyList .card {
-    max-width: 320px;
+    width: 322px;
+}
+
+.hobbyList .card > .img_wrapper {
+    width: 302px;
+    height: 252px;
 }

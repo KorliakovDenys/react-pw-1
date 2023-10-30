@@ -13,7 +13,12 @@
 }
 
 .hobbyDetails .card {
-    width: 270px;
+    width: 272px;
+}
+
+.hobbyDetails .card > .img_wrapper {
+    width: 252px;
+    height: 302px;
 }
 
 p {

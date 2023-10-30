@@ -1,6 +1,7 @@
 .cardList {
     display: inline-grid;
     grid-gap: 10px;
+    padding-bottom: 20px;
 }
 
 @media (min-width: 654px) {
